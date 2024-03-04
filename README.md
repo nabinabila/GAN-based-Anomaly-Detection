@@ -23,6 +23,7 @@ Scikit-Learn
 Matplotlib
 
 # Dataset
-Dataset provided by:
-
-public SpineWeb (http://spineweb.digitalimaginggroup.ca)
+MURA Dataset Public, detect abnormality in X-Ray images.
+Provided by: https://stanfordmlgroup.github.io/competitions/mura/
+Rib Fracture Detection , provided by : https://ribfrac.grand-challenge.org/tasks/
+xVertSeg Dataset provided by: public SpineWeb (http://spineweb.digitalimaginggroup.ca)
